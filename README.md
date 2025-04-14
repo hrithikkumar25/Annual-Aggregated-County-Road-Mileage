@@ -6,7 +6,7 @@ County-Wise Total Road Mileage:
 Created Pivot Tables and Bar Charts showing top counties by total lane miles and centerline miles.
 
 Yearly Trend of Road Development:
-Analyzed how total road mileage changed year over year using a Line Chart.
+Analyzed how total road mileage changed year over year using a Lines Chart.
 
 Paved vs. Unpaved Roads Comparison:
 Built a Pie Chart showing the percentage of paved and unpaved roads.
