@@ -1,7 +1,7 @@
 # Annual-Aggregated-County-Road-Mileage
 The project focuses on analyzing road infrastructure data to gain insights into road mileage distribution, surface types, paving status, and truck route networks across different counties.
 
-✅ Objectives Achieved:
+✅ Objectives Achieved
 County-Wise Total Road Mileage:
 Created Pivot Tables and Bar Charts showing top counties by total lane miles and centerline miles.
 
