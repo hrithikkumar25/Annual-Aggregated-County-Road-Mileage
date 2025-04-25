@@ -5,7 +5,7 @@ The project focuses on analyzing road infrastructure data to gain insights into 
 County-Wise Total Road Mileage:
 Created Pivot Tables and Bar Charts showing top counties by total lane miles and centerline miles.
 
-Yearly Trend of Road Development
+Yearly Trend of Road Development:
 Analyzed how total road mileage changed year over year using a Line Chart.
 
 Paved vs. Unpaved Roads Comparison:
