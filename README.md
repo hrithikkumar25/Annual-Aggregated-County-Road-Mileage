@@ -17,7 +17,7 @@ Visualized the types of surfaces (ACP, BST, etc.) used across road networks via 
 Truck Route Roads Summary:
 Summarized truck routes (Interstate, NHS, Non-NHS) using Pivot Tables and Bar Charts.
 
-🛠️ Tools & Technologies
+ Tools & Technologies
 Python (Pandas, Matplotlib)
 
 Microsoft Excel (Pivot Tables, Charts, Dashboard Design)
