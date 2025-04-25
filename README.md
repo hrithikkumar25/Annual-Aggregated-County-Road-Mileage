@@ -22,4 +22,4 @@ Python (Pandas, Matplotlib)
 
 Microsoft Excel (Pivot Tables, Charts, Dashboard Design)
 
-Data Cleaning & Preparation
+Data Cleaning & Preparation.
