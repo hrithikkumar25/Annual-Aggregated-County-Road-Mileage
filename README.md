@@ -12,7 +12,7 @@ Paved vs. Unpaved Roads Comparison:
 Built a Pie Chart showing the percentage of paved and unpaved roads.
 
 Road Surface Type Distribution:
-Visualized the types of surfaces (ACP, BST, etc.) used across road networks via Pie Charts.
+Visualized the types of surface (ACP, BST, etc.) used across road networks via Pie Charts.
 
 Truck Route Roads Summary:
 Summarized truck routes (Interstate, NHS, Non-NHS) using Pivot Tables and Bar Charts.
